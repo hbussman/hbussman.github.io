@@ -1,0 +1,20 @@
+html {
+	margin: 10px
+}
+
+body {
+	background:url('https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.wallpaperbetter.com%2Fwallpaper%2F957%2F847%2F793%2Fspace-planet-space-art-purple-1080P-wallpaper.jpg&f=1') #272822 no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+
+	color: #CCD147;
+	font-family: Helvetica
+	overflow: hidden
+}
+
+header {
+	font-size: 30px;
+	font-family: 'Berkshire Swash', cursive;
+}
