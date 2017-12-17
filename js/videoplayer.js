@@ -3,11 +3,11 @@
 // there is a specific order to this that shall be maintained. rather obvious actually.
 const _songs = [
 	{
-		id: "DJS5g4-p3K4" // Turn Loose The Mermaids
-	},
-	{
 		id: "zPonioDYnoY", // Elan
 		params: ["end=272"]
+	},
+	{
+		id: "DJS5g4-p3K4" // Turn Loose The Mermaids
 	},
 	{
 		id: "ggVGiKw-geQ", // Evolution
