@@ -10,6 +10,7 @@ function setText(elementId, newText)
 
 function padded(str, padding, char=' ')
 {
+	str = ""+str; // assure that it's always a string
 	len = str.length
 	for(var i = 0; i < padding-len; i++)
 		str = char + str;
